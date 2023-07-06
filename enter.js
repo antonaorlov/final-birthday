@@ -10,7 +10,7 @@ function func(){
 }
 
 function func1(){
-  window.location.assign("index.html");
+  window.location.assign("Shop.html");
 }
 
 

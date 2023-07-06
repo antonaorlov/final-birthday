@@ -93,7 +93,7 @@ consentForm.addEventListener('submit', function(e){
     setTimeout(function(){
         document.getElementById('modal-inner').innerHTML = `
         <h2>Thanks <span class="modal-display-name">${fullName}</span>,<br> You are Hot!!😍
-        <p>Just Made my Day again 😘 </p>
+        <p>Happy 19th Birthday 😘 </p>
         <div class="idiot-gif">
             <img src="pirate.gif">
         </div>

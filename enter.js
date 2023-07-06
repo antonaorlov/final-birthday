@@ -102,3 +102,4 @@ consentForm.addEventListener('submit', function(e){
     }, 3000)
   
 })
+

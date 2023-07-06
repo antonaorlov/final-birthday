@@ -1,7 +1,9 @@
 html,body{
-  background: #474bff;
-background: -webkit-radial-gradient(circle, #474bff 0%, #bc48ff 100%);
-background: radial-gradient(circle, #474bff 0%, #bc48ff 100%);
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+  
+
 }
 
 .login-box {
@@ -327,4 +329,19 @@ button:hover .star-6 {
 
 .fil0 {
   fill: #FFFDEF
+}
+
+canvas{display:block}
+h1 {
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  font-family: "Source Sans Pro";
+  font-size: 5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
 }
